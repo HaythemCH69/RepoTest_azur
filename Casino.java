@@ -1,3 +1,4 @@
+#mon application casino 
 import java.util.Random;
 
 public class Casino {
